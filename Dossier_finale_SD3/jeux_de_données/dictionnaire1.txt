@@ -1,0 +1,3 @@
+Données pour graphe 1 et 4
+https://ourworldindata.org/grapher/carbon-intensity-electricity?fbclid=IwAR3-rsKYth2ELVuQVKGQSJYr1o1buYx0EKSUJZUSPVmB4Fkd4EOHqzt9ro4
+https://www.kaggle.com/datasets/cathetorres/geospatial-environmental-and-socioeconomic-data?fbclid=IwAR3-rsKYth2ELVuQVKGQSJYr1o1buYx0EKSUJZUSPVmB4Fkd4EOHqzt9ro4							
